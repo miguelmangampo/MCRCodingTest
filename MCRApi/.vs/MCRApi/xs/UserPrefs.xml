@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C0218D39-132E-4457-8FEB-AF0A8B37A548}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MCRApi/Controllers/UsersController.cs">
+    <Files>
+      <File FileName="MCRApi/Controllers/UsersController.cs" Line="15" Column="26" />
+      <File FileName="MCRApi/Startup.cs" Line="42" Column="53" />
+      <File FileName="MCRApi/Controllers/AuthController.cs" Line="74" Column="14" />
+      <File FileName="MCRApi/Helpers/Constants.cs" Line="11" Column="14" />
+      <File FileName="MCRApi/Entities/Users.cs" Line="27" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MCRApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

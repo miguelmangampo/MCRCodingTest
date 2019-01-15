@@ -1,0 +1,10 @@
+/Users/miguelsalvador/Projects/MCRApi/MCRApi/bin/Debug/netcoreapp2.0/MCRApi.deps.json
+/Users/miguelsalvador/Projects/MCRApi/MCRApi/bin/Debug/netcoreapp2.0/MCRApi.runtimeconfig.json
+/Users/miguelsalvador/Projects/MCRApi/MCRApi/bin/Debug/netcoreapp2.0/MCRApi.runtimeconfig.dev.json
+/Users/miguelsalvador/Projects/MCRApi/MCRApi/bin/Debug/netcoreapp2.0/MCRApi.dll
+/Users/miguelsalvador/Projects/MCRApi/MCRApi/bin/Debug/netcoreapp2.0/MCRApi.pdb
+/Users/miguelsalvador/Projects/MCRApi/MCRApi/obj/Debug/netcoreapp2.0/MCRApi.csproj.CoreCompileInputs.cache
+/Users/miguelsalvador/Projects/MCRApi/MCRApi/obj/Debug/netcoreapp2.0/MCRApi.AssemblyInfoInputs.cache
+/Users/miguelsalvador/Projects/MCRApi/MCRApi/obj/Debug/netcoreapp2.0/MCRApi.AssemblyInfo.cs
+/Users/miguelsalvador/Projects/MCRApi/MCRApi/obj/Debug/netcoreapp2.0/MCRApi.dll
+/Users/miguelsalvador/Projects/MCRApi/MCRApi/obj/Debug/netcoreapp2.0/MCRApi.pdb
